@@ -1,0 +1,27 @@
+.custom-input {
+    height: 50px;
+    border-radius: 15px;
+
+    /* Atur tinggi input field sesuai kebutuhan */
+}
+
+.img-satu {
+    overflow: hidden;
+    width: 100%;
+}
+
+.footer-img {
+    width: 85px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+/* Custom CSS untuk background tombol cari */
+.search-btn {
+    background-color: blue;
+    color: white;
+    border-color: blue;
+    height: 50px;
+    border-radius: 15px;
+    /* Atur tinggi tombol cari sesuai dengan tinggi input field */
+}
