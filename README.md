@@ -15,9 +15,8 @@ Proyek ini merupakan upaya untuk memperbarui tampilan dan fungsionalitas landing
 ## ✨ Fitur
 
 - **Redesain Tampilan**: Menggunakan template yang elegan untuk memperbarui tampilan landing page.
-- **Integrasi Laravel**: Menggunakan fitur-fitur Laravel untuk pengelolaan konten dan logika backend.
+- **Integrasi Laravel**: Menggunakan fitur-fitur Laravel untuk pengelolaan konten.
 - **Responsif**: Menyesuaikan tampilan agar dapat diakses dengan baik di berbagai perangkat.
-- **Optimasi SEO**: Meningkatkan optimasi mesin telusur dengan penggunaan teknik-teknik SEO pada konten.
 
 ## 🛠️ Instalasi
 
