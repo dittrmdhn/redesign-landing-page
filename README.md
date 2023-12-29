@@ -51,5 +51,3 @@ Kontribusi dalam bentuk *pull request* dipersilakan. Pastikan untuk membahas per
 [MIT License](LICENSE) © Aditya
 
 ---
-
-Jangan lupa untuk menyesuaikan informasi seperti link demo, link screenshot, instruksi instalasi, dan informasi pengembang proyek sesuai dengan proyek yang Anda buat.
