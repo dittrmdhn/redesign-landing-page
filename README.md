@@ -1,7 +1,5 @@
 # Redesain Landing Page dengan Laravel dan Template
 
-![Project Image](image/logo-qw-light.png)
-
 Deskripsi singkat proyek ini dan tujuan redesain landing page menggunakan Laravel dan sebuah template untuk meningkatkan tampilan dan fungsionalitasnya.
 
 ## 🚀 Demo
