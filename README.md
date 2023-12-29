@@ -1,6 +1,6 @@
 # Redesain Landing Page dengan Laravel dan Template
 
-![Project Image](link_gambar.jpg)
+![Project Image](image/logo-qw-light.png)
 
 Deskripsi singkat proyek ini dan tujuan redesain landing page menggunakan Laravel dan sebuah template untuk meningkatkan tampilan dan fungsionalitasnya.
 
@@ -25,22 +25,17 @@ Proyek ini merupakan upaya untuk memperbarui tampilan dan fungsionalitas landing
 
 1. Clone repositori ini ke dalam direktori lokal Anda.
     ```bash
-    git clone https://github.com/username/nama-repositori.git
+    git clone https://github.com/dittrmdhn/redesign-landing-page.git
     ```
 2. Masuk ke direktori proyek.
     ```bash
-    cd nama-repositori
+    cd redesign-landing-page
     ```
 3. Install dependensi menggunakan Composer.
     ```bash
     composer install
     ```
-4. Salin berkas `.env.example` menjadi `.env` dan sesuaikan konfigurasi database.
-5. Jalankan migrasi database.
-    ```bash
-    php artisan migrate
-    ```
-6. Jalankan server lokal Laravel.
+4. Jalankan server lokal Laravel.
     ```bash
     php artisan serve
     ```
@@ -55,7 +50,7 @@ Kontribusi dalam bentuk *pull request* dipersilakan. Pastikan untuk membahas per
 
 ## 📝 Lisensi
 
-[MIT License](LICENSE) © Nama Pengembang
+[MIT License](LICENSE) © Aditya
 
 ---
 
