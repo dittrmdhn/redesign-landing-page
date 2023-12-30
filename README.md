@@ -6,8 +6,6 @@ Deskripsi singkat proyek ini dan tujuan redesain landing page menggunakan Larave
 
 [🔗 Tautan Demo](link_demo)
 
-![Screenshot](link_screenshot.jpg)
-
 ## 📄 Deskripsi
 
 Proyek ini merupakan upaya untuk memperbarui tampilan dan fungsionalitas landing page menggunakan framework Laravel dan sebuah template yang responsif dan modern.
